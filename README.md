@@ -20,7 +20,7 @@ In the path of achieving this goal, firstly learnt about the "**OpenCV**" and ma
 - [Image Manipulations Processing](https://drive.google.com/drive/folders/15JnwKC6APfhTJPv3xDHg6B7aWtHhe5lw?usp=sharing)
 - [Image Segmentation Contours](https://drive.google.com/drive/folders/13a0Pl5BxRUhW-24vkp8AMdK3m2TKJwR4?usp=sharing)
 
-Also got a hands-on experience with the Deep learning library - **PyTorch**, build Deep Learning and Neural Networks model from skretch, trained the network, then tested to estmiate the accuracy, for each of the following :
+Also got a hands-on experience with the Deep learning library - "**PyTorch**", build Deep Learning and Neural Networks model from skretch, trained the network, then tested to estmiate the accuracy, for each of the following :
 - [Handwritten Digit Recognition](https://drive.google.com/file/d/1QWp-EMybRCUuMxHTKHsMPKGFPfguXJxz/view?usp=sharing) with an accuracy of **98%**
 - [Distinction between Cats and Dogs](https://drive.google.com/file/d/1sEyuZuFoGWRq7UQUGM81YbCwUUxAHzlw/view?usp=sharing) with an accuracy of **76%**
 
