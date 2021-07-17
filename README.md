@@ -1,10 +1,22 @@
 # SoC2k21_Complete_Work
 
-Task 1 (A1)
+# Task 1 (A1)
 
-Pandas Exercises : Learnt about pandas and numpy libraries and utilized the library functions to extract the information about the dataset.
+Pandas Exercises : 
+Learnt about pandas and numpy libraries and utilized the library functions to extract the information about the dataset.
 
-Task 2 (A2)
+# Task 2 (A2)
 
-Matplotlib Exercies : Managed to get the statistical info about different columns of the dataset, and plotted various kinds of graphs for the data such as histograms and box-and-whiskers plots.
+Matplotlib Exercies : 
+Managed to get the statistical info about different columns of the dataset, and plotted various kinds of graphs for the data such as histograms and box-and-whiskers plots.
+
+# Task 4 (B3)
+
+Live Age and Gender Detection : 
+build a Jupyter-based Age and Gender detection model using pre-trained deep learning Caffe models. This Jupyter code can detect one's gender and age bracket from live webcam feed.
+
+# Task 5 (B4)
+
+Age and Gender Detection on YouTube Videos:
+Tried a variation of previous model on colab in which instead of giving live webcam feed we can give a youtube video link, the code then can process the video, identify age and gender of as many people as there are in the youtube video.
 
