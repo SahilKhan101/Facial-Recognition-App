@@ -17,6 +17,15 @@ build a Jupyter-based Age and Gender detection model using pre-trained deep lear
 
 # Task 5 (B4)
 
-Age and Gender Detection on YouTube Videos:
+Age and Gender Detection on YouTube Videos :
 Tried a variation of previous model on colab in which instead of giving live webcam feed we can give a youtube video link, the code then can process the video, identify age and gender of as many people as there are in the youtube video.
 
+# Task 6 (C1)
+
+Making Android App for Gender + Age Detection : 
+Got to know about TFLite and Android Studio, and utilizing previously learnt concepts to give "Jupyter-based Live Age and Gender detection model" a shape of "Android App".
+
+# Task 7 (C2)
+
+Making Colab Based Face Detection + Recognition + Cluster Project :
+Built a Colab based Web-App to Detect the faces of people in the frame provided and then Recognition them using the priviously feeded data(basically fair number of photos for each person, to be recognized, with name). Also added a feature for Clutering the photos of different people from a pool of images (makes a Group of photos of a single person).
