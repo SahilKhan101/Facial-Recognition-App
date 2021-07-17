@@ -15,6 +15,11 @@ Managed to get the statistical info about different columns of the dataset, and 
 Live Age and Gender Detection : 
 build a Jupyter-based Age and Gender detection model using pre-trained deep learning Caffe models. This Jupyter code can detect one's gender and age bracket from live webcam feed.
 
+In the path of achieving this goal, firstly learnt about the "**OpenCV**" and made some mini-projects also. And here are the links to the notebooks :
+- [Basics of Computer Vision and OpenCV](https://drive.google.com/drive/folders/17gzt3Q3oSPazu3HCJQ8qDS6j1pIQeF_9?usp=sharing)
+- [Image Manipulations Processing](https://drive.google.com/drive/folders/15JnwKC6APfhTJPv3xDHg6B7aWtHhe5lw?usp=sharing)
+- [Image Segmentation Contours](https://drive.google.com/drive/folders/13a0Pl5BxRUhW-24vkp8AMdK3m2TKJwR4?usp=sharing)
+
 # Task 5 (B4)
 
 Age and Gender Detection on YouTube Videos :
