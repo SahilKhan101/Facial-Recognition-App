@@ -7,3 +7,4 @@ Pandas Exercises : Learnt about pandas and numpy libraries and utilized the libr
 Task 2 (A2)
 
 Matplotlib Exercies : Managed to get the statistical info about different columns of the dataset, and plotted various kinds of graphs for the data such as histograms and box-and-whiskers plots.
+
