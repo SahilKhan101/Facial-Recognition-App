@@ -38,3 +38,11 @@ Got to know about TFLite and Android Studio, and utilizing previously learnt con
 
 Making Colab Based Face Detection + Recognition + Cluster Project : <br>
 Built a Colab based Web-App to Detect the faces of people in the frame provided and then Recognition them using the priviously feeded data(basically fair number of photos for each person, to be recognized, with name). Also added a feature for Clutering the photos of different people from a pool of images (makes a Group of photos of a single person).
+
+Working :
+- First we recognize the face from a photo using the facial_recognition model developed by Adam Geitgey.
+- Then we extract 128-d encodings of the face using Histogram of Oriented Gradients (HOG) method.
+- For the recognition of a face in new image, we computing the Euclidean distance between the candidate embedding and all faces in our dataset : <br>
+  - If the distance is below some tolerance, this indicates the faces match.
+  - Otherwise, if the distance is above the tolerance threshold, indicates faces do not match.
+- Then we group similar faces together for clustering task using DBSCAN
